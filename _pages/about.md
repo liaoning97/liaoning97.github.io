@@ -13,7 +13,7 @@ News
 ======
 - **[2026.01]** One paper about [token selection](https://arxiv.org/pdf/2510.18250) is accepted to **ICLR2026**.
 - **[2026.01]** One paper about [open-set object detection](https://arxiv.org/pdf/2411.02057) is accepted to **IJCV**.
-- **[2025.12]** I give a talk about **MoE upcycling and architecture design** at **CCLD2025, Suzhou**.
+- **[2025.12]** I give a talk about [MoE upcycling and architecture design]() at **CCLD2025**.
 - **[2025.09]** One paper about [visual prompt learning](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001365) is accepted to **Artificial Intelligence**.
 - **[2025.07]** The scienfic foundation model [Innovator](https://arxiv.org/pdf/2507.18671) is released on **WAIC2025**.
 - ...
