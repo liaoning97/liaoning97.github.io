@@ -21,18 +21,18 @@ News
 Selected Publications 
 ======
 (*Equal Contribution, †Corresponding Author)
-- **CoHOZ: Contrastive Multimodal Prompt Tuning for Hierarchical Open-set Zero-shot Recognition** [[ACMMM2022 Oral](https://dl.acm.org/doi/abs/10.1145/3503161.3548021)]  
-  **Ning Liao**, Yifeng Liu, Xiaobo Li, Chenyi Lei, Guoxin Wang, Xian-Sheng Hua, Junchi Yan
-- **Visual Prompt Learning:A Survey** [[Chinese Journal of Computers](http://cjc.ict.ac.cn/online/onlinepaper/ln-2024422112811.pdf)]  
-  **Ning Liao**, Min Cao, Junchi Yan
+- **CoHOZ: Contrastive Multimodal Prompt Tuning for Hierarchical Open-set Zero-shot Recognition** [[ACM MM2022 Oral](https://dl.acm.org/doi/abs/10.1145/3503161.3548021)]  
+  ***Ning Liao**, Yifeng Liu, Xiaobo Li, Chenyi Lei, Guoxin Wang, Xian-Sheng Hua, Junchi Yan*
+- **Visual Prompt Learning: A Survey** [[Chinese Journal of Computers](http://cjc.ict.ac.cn/online/onlinepaper/ln-2024422112811.pdf)]  
+  ***Ning Liao**, Min Cao, Junchi Yan*
 - **M-Tuning: Prompt Tuning with Mitigated Label Bias in Open-Set Scenarios** [[IEEE TCSVT](https://ieeexplore.ieee.org/abstract/document/10818508)]  
-  **Ning Liao**, Xiaopeng Zhang, Min Cao, Junchi Yan
+  ***Ning Liao**, Xiaopeng Zhang, Min Cao, Junchi Yan*
 - **Rethinking visual prompt learning as masked visual token modeling** [[Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001365)]  
-  **Ning Liao†**, Bowen Shi, Xiaopeng Zhang, Min Cao, Junchi Yan, Qi Tian
+  ***Ning Liao†**, Bowen Shi, Xiaopeng Zhang, Min Cao, Junchi Yan, Qi Tian*
+- **Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning** [[ECCV2024](https://link.springer.com/chapter/10.1007/978-3-031-73016-0_25)]  
+  *Yan Li, Weiwei Guo, Xue Yang, **Ning Liao**, Dunyun He, Jiaqi Zhou, Wenxian Yu*
 - **Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation** [[IJCV](https://arxiv.org/pdf/2411.02057)]  
-  Yan Li, Weiwei Guo, Xue Yang, **Ning Liao**, Shaofeng Zhang, Yi Yu, Wenxian Yu, Junchi Yan
-- **ssToken: Self-modulated and Semantic-aware Token Selection for LLM Fine-tuning** [[ICLR2026](https://arxiv.org/pdf/2510.18250)]  
-  Xiaohan Qin, Xiaoxing Wang, **Ning Liao**, Cancheng Zhang, Xiangdong Zhang, Mingquan Feng, Jingzhi Wang, Junchi Yan
+  *Yan Li, Weiwei Guo, Xue Yang, **Ning Liao**, Shaofeng Zhang, Yi Yu, Wenxian Yu, Junchi Yan*
 - **Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank** [[Preprint](https://arxiv.org/pdf/2512.08648)]  
-  Shaofeng Zhang*, Xuanqi Chen*, **Ning Liao***, Haoxiang Zhao, Xiaoxing Wang, Haoru Tan, Sitong Wu, Xiaosong Jia, Qi Fan, Junchi Yan
+  *Shaofeng Zhang*, Xuanqi Chen*, **Ning Liao***, Haoxiang Zhao, Xiaoxing Wang, Haoru Tan, Sitong Wu, Xiaosong Jia, Qi Fan, Junchi Yan*
 
