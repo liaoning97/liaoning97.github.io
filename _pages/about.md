@@ -39,8 +39,8 @@ Selected Publications
   _Yan Li, Weiwei Guo, Xue Yang, **Ning Liao**, Dunyun He, Jiaqi Zhou, Wenxian Yu_
 - **Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation** [[IJCV](https://arxiv.org/pdf/2411.02057)]  
   _Yan Li, Weiwei Guo, Xue Yang, **Ning Liao**, Shaofeng Zhang, Yi Yu, Wenxian Yu, Junchi Yan_
-- **Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank** [[Preprint](https://arxiv.org/pdf/2512.08648)]  
-  _Shaofeng Zhang*, Xuanqi Chen*, **Ning Liao***, Haoxiang Zhao, Xiaoxing Wang, Haoru Tan, Sitong Wu, Xiaosong Jia, Qi Fan, Junchi Yan_
+- **Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space** [[CVPR 2026](https://arxiv.org/pdf/2505.17011)]  
+  _Yan Li, Changyao Tian, Renqiu Xia, **Ning Liao**, Weiwei Guo, Junchi Yan, Hongsheng Li, Jifeng Dai, Hao Li, Xue Yang_
 
 Academic Services 
 ======
