@@ -11,6 +11,7 @@ Currently, Ning Liao is a researcher focusing on **continual learning on LLMs/ML
 
 News
 ======
+- **[2026.02]** Two paper about [video tokenization](https://arxiv.org/pdf/2505.17011) and [object detection](https://arxiv.org/pdf/2507.02751) are accepted to **CVPR 2026**.
 - **[2026.01]** One paper about [token selection](https://arxiv.org/pdf/2510.18250) is accepted to **ICLR 2026**.
 - **[2026.01]** One paper about [open vocabulary object detection](https://arxiv.org/pdf/2411.02057) is accepted to **IJCV**.
 - **[2025.12]** I give a talk about [MoE upcycling and architecture innovation](https://liaoning97.github.io/) at **CCLD 2025**.
