@@ -31,7 +31,7 @@ Selected Publications
   _**Ning Liao**, Xiaopeng Zhang, Min Cao, Junchi Yan_
 - **Rethinking visual prompt learning as masked visual token modeling** [[Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001365)]  
   _**Ning Liao†**, Bowen Shi, Xiaopeng Zhang, Min Cao, Junchi Yan, Qi Tian_
-- **Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling** [[Technical Report at WAIC 2025](https://arxiv.org/pdf/2507.18671)]  
+- **Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling** [[Tech Report at WAIC 2025](https://arxiv.org/pdf/2507.18671)]  
   _**Ning Liao**, Xiaoxing Wang, Zehao Lin, et al._
 - **On the Evaluation and Refinement of Vision-Language Instruction Tuning Datasets** [[Preprint](https://arxiv.org/pdf/2310.06594)]  
   _**Ning Liao**, Shaofeng Zhang, Min Cao, Junchi Yan_
