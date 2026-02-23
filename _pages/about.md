@@ -33,8 +33,6 @@ Selected Publications
   _**Ning Liao†**, Bowen Shi, Xiaopeng Zhang, Min Cao, Junchi Yan, Qi Tian_
 - **Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling** [[Tech Report at WAIC 2025](https://arxiv.org/pdf/2507.18671)]  
   _**Ning Liao**, Xiaoxing Wang, Zehao Lin, et al._
-- **On the Evaluation and Refinement of Vision-Language Instruction Tuning Datasets** [[Preprint](https://arxiv.org/pdf/2310.06594)]  
-  _**Ning Liao**, Shaofeng Zhang, Min Cao, Junchi Yan_
 - **Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning** [[ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-73016-0_25)]  
   _Yan Li, Weiwei Guo, Xue Yang, **Ning Liao**, Dunyun He, Jiaqi Zhou, Wenxian Yu_
 - **Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation** [[IJCV](https://arxiv.org/pdf/2411.02057)]  
