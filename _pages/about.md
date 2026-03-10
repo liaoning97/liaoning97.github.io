@@ -11,6 +11,7 @@ Currently, Ning Liao is a researcher focusing on **foundation models, MoE archit
 
 News
 ======
+- **[2026.03]** We opensource the FineRMoE, including [code](https://github.com/liaoning97/FineRMoE) based on Megatron-LM framework and [model](https://huggingface.co/collections/NingLiao/finermoe). Preprint is coming soon!
 - **[2026.02]** Two paper about [video tokenization](https://arxiv.org/pdf/2505.17011) and [object detection](https://arxiv.org/pdf/2507.02751) are accepted to **CVPR 2026**. 🎉🎉🎉
 - **[2026.01]** One paper about [token selection](https://arxiv.org/pdf/2510.18250) is accepted to **ICLR 2026**. 🎉🎉🎉
 - **[2026.01]** One paper about [open vocabulary object detection](https://arxiv.org/pdf/2411.02057) is accepted to **IJCV**. 🎉🎉🎉
@@ -31,6 +32,8 @@ Selected Publications
   _**Ning Liao**, Xiaopeng Zhang, Min Cao, Junchi Yan_
 - **Rethinking visual prompt learning as masked visual token modeling** [[Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001365)]  
   _**Ning Liao†**, Bowen Shi, Xiaopeng Zhang, Min Cao, Junchi Yan, Qi Tian_
+- **FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach** [[Code](https://github.com/liaoning97/FineRMoE)][[Model](https://huggingface.co/collections/NingLiao/finermoe)]  
+  _**Ning Liao**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan_
 - **Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling** [[Tech Report at WAIC 2025](https://arxiv.org/pdf/2507.18671)]  
   _**Ning Liao**, Xiaoxing Wang, Zehao Lin, et al._
 - **Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning** [[ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-73016-0_25)]  
