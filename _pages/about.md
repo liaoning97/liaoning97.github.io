@@ -36,12 +36,13 @@ Selected Publications
   _**Ning Liao**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan_
 - **Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling** [[Tech Report at WAIC 2025](https://arxiv.org/pdf/2507.18671)]  
   _**Ning Liao**, Xiaoxing Wang, Zehao Lin, et al._
+- **EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation** [[Preprint](https://arxiv.org/pdf/2603.12108)]  
+  _Yan Li*, **Ning Liao***, Xiangyu Zhao, et al._
 - **AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents** [[Preprint](https://arxiv.org/pdf/2603.09716)]  
   _Xiaoxing Wang*, **Ning Liao***, Shikun Wei, et al._
 - **Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning** [[ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-73016-0_25)]  
   _Yan Li, Weiwei Guo, Xue Yang, **Ning Liao**, Dunyun He, Jiaqi Zhou, Wenxian Yu_
 - **Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation** [[IJCV](https://arxiv.org/pdf/2411.02057)]
-
   _Yan Li, Weiwei Guo, Xue Yang, **Ning Liao**, Shaofeng Zhang, Yi Yu, Wenxian Yu, Junchi Yan_
 - **Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space** [[CVPR 2026](https://arxiv.org/pdf/2505.17011)]  
   _Yan Li, Changyao Tian, Renqiu Xia, **Ning Liao**, Weiwei Guo, Junchi Yan, Hongsheng Li, Jifeng Dai, Hao Li, Xue Yang_
