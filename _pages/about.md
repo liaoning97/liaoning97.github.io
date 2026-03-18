@@ -12,6 +12,7 @@ Currently, Ning Liao is a researcher focusing on **foundation models, MoE archit
 News
 ======
 - **[2026.03]** We opensource the FineRMoE: [preprint](https://arxiv.org/pdf/2603.13364), [model](https://huggingface.co/collections/NingLiao/finermoe) and [code](https://github.com/liaoning97/FineRMoE) based on Megatron-LM framework.
+- **[2026.03]** We propose the [AutoAgent](https://arxiv.org/pdf/2603.09716), in which I dominate the Elastic Memory Orchestration module for context management.
 - **[2026.02]** Two paper about [video tokenization](https://arxiv.org/pdf/2505.17011) and [object detection](https://arxiv.org/pdf/2507.02751) are accepted to **CVPR 2026**. 🎉🎉🎉
 - **[2026.01]** One paper about [token selection](https://arxiv.org/pdf/2510.18250) is accepted to **ICLR 2026**. 🎉🎉🎉
 - **[2026.01]** One paper about [open vocabulary object detection](https://arxiv.org/pdf/2411.02057) is accepted to **IJCV**. 🎉🎉🎉
