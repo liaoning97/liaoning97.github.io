@@ -11,7 +11,7 @@ Hi! Currently, I'm a researcher at M17 focusing on **foundation models, MoE arch
 
 News
 ======
-- **[2026.036** [EvoTok](https://arxiv.org/pdf/2603.12108)（Co-First & Project Lead）and [GRADE](https://arxiv.org/pdf/2603.12264) are accepted to **ECCV 2026**.🎉🎉🎉
+- **[2026.06]** [EvoTok](https://arxiv.org/pdf/2603.12108)（Co-First & Project Lead）and [GRADE](https://arxiv.org/pdf/2603.12264) are accepted to **ECCV 2026**.🎉🎉🎉
 - **[2026.03]** We opensource the FineRMoE: [preprint](https://arxiv.org/pdf/2603.13364), [model](https://huggingface.co/collections/NingLiao/finermoe) and [code](https://github.com/liaoning97/FineRMoE) based on Megatron-LM framework.
 - **[2026.03]** We propose the [AutoAgent](https://arxiv.org/pdf/2603.09716), in which I dominate the Elastic Memory Orchestration module for context management.
 - **[2026.02]** Two paper about [video tokenization](https://arxiv.org/pdf/2505.17011) and [object detection](https://arxiv.org/pdf/2507.02751) are accepted to **CVPR 2026**. 🎉🎉🎉
