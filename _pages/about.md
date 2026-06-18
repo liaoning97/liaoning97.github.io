@@ -11,6 +11,7 @@ Hi! Currently, I'm a researcher at M17 focusing on **foundation models, MoE arch
 
 News
 ======
+- **[2026.036** [EvoTok](https://arxiv.org/pdf/2603.12108)（Co-First & Project Lead）and [GRADE](https://arxiv.org/pdf/2603.12264) are accepted to **ECCV 2026**.🎉🎉🎉
 - **[2026.03]** We opensource the FineRMoE: [preprint](https://arxiv.org/pdf/2603.13364), [model](https://huggingface.co/collections/NingLiao/finermoe) and [code](https://github.com/liaoning97/FineRMoE) based on Megatron-LM framework.
 - **[2026.03]** We propose the [AutoAgent](https://arxiv.org/pdf/2603.09716), in which I dominate the Elastic Memory Orchestration module for context management.
 - **[2026.02]** Two paper about [video tokenization](https://arxiv.org/pdf/2505.17011) and [object detection](https://arxiv.org/pdf/2507.02751) are accepted to **CVPR 2026**. 🎉🎉🎉
@@ -24,7 +25,7 @@ News
 
 Selected Publications 
 ======
-(*Equal Contribution, †Corresponding Author)
+(*Equal Contribution, †Corresponding Author/Project Lead)
 - **CoHOZ: Contrastive Multimodal Prompt Tuning for Hierarchical Open-set Zero-shot Recognition** [[ACM MM 2022 Oral](https://dl.acm.org/doi/abs/10.1145/3503161.3548021)]  
   _**Ning Liao**, Yifeng Liu, Xiaobo Li, Chenyi Lei, Guoxin Wang, Xian-Sheng Hua, Junchi Yan_
 - **Visual Prompt Learning: A Survey** [[Chinese Journal of Computers](http://cjc.ict.ac.cn/online/onlinepaper/ln-2024422112811.pdf)]  
@@ -37,7 +38,7 @@ Selected Publications
   _**Ning Liao**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan_
 - **Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling** [[Tech Report at WAIC 2025](https://arxiv.org/pdf/2507.18671)]  
   _**Ning Liao**, Xiaoxing Wang, Zehao Lin, et al._
-- **EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation** [[Preprint](https://arxiv.org/pdf/2603.12108)]  
+- **EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation** [[ECCV 2026](https://arxiv.org/pdf/2603.12108)]  
   _Yan Li*, **Ning Liao***, Xiangyu Zhao, et al._
 - **AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents** [[Preprint](https://arxiv.org/pdf/2603.09716)]  
   _Xiaoxing Wang*, **Ning Liao***(dominating Elastic Memory Orchestration), Shikun Wei, et al._
