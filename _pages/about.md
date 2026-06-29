@@ -11,6 +11,7 @@ Hi! Currently, I'm a researcher at M17 focusing on **MoE architecture, long-hori
 
 News
 ======
+- **[2026.06]** I will serve as the Area Chair for the [2nd MUGG workshop](https://mllm-mucg.github.io/ECCV2026/) at ECCV2026.
 - **[2026.06]** [EvoTok](https://arxiv.org/pdf/2603.12108)（Co-First & Project Lead）and [GRADE](https://arxiv.org/pdf/2603.12264) are accepted to **ECCV 2026**.🎉🎉🎉
 - **[2026.03]** We opensource the FineRMoE: [preprint](https://arxiv.org/pdf/2603.13364), [model](https://huggingface.co/collections/NingLiao/finermoe) and [code](https://github.com/liaoning97/FineRMoE) based on Megatron-LM framework.
 - **[2026.02]** Two paper about [video tokenization](https://arxiv.org/pdf/2505.17011) and [object detection](https://arxiv.org/pdf/2507.02751) are accepted to **CVPR 2026**. 🎉🎉🎉
