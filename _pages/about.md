@@ -26,6 +26,12 @@ News
 Selected Publications 
 ======
 (*Equal Contribution, †Corresponding Author/Project Lead)
+- **ACE: Pluggable Adaptive Context Elasticizer across Agents** [[Preprint](https://arxiv.org/pdf/2606.31564)]  
+  _**Ning Liao**, Zihao Long, Xiaoxing Wang, et al._
+- **FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach** [[Preprint](https://arxiv.org/pdf/2603.13364)][[Code](https://github.com/liaoning97/FineRMoE)][[Model](https://huggingface.co/collections/NingLiao/finermoe)]  
+  _**Ning Liao**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan_
+- **Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling** [[Tech Report at WAIC 2025](https://arxiv.org/pdf/2507.18671)]  
+  _**Ning Liao**, Xiaoxing Wang, Zehao Lin, et al._
 - **CoHOZ: Contrastive Multimodal Prompt Tuning for Hierarchical Open-set Zero-shot Recognition** [[ACM MM 2022 Oral](https://dl.acm.org/doi/abs/10.1145/3503161.3548021)]  
   _**Ning Liao**, Yifeng Liu, Xiaobo Li, Chenyi Lei, Guoxin Wang, Xian-Sheng Hua, Junchi Yan_
 - **Visual Prompt Learning: A Survey** [[Chinese Journal of Computers](http://cjc.ict.ac.cn/online/onlinepaper/ln-2024422112811.pdf)]  
@@ -34,10 +40,6 @@ Selected Publications
   _**Ning Liao**, Xiaopeng Zhang, Min Cao, Junchi Yan_
 - **Rethinking visual prompt learning as masked visual token modeling** [[Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/S0004370225001365)]  
   _**Ning Liao†**, Bowen Shi, Xiaopeng Zhang, Min Cao, Junchi Yan, Qi Tian_
-- **FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach** [[Preprint](https://arxiv.org/pdf/2603.13364)][[Code](https://github.com/liaoning97/FineRMoE)][[Model](https://huggingface.co/collections/NingLiao/finermoe)]  
-  _**Ning Liao**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan_
-- **Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling** [[Tech Report at WAIC 2025](https://arxiv.org/pdf/2507.18671)]  
-  _**Ning Liao**, Xiaoxing Wang, Zehao Lin, et al._
 - **EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation** [[ECCV 2026](https://arxiv.org/pdf/2603.12108)]  
   _Yan Li*, **Ning Liao***, Xiangyu Zhao, et al._
 - **AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents** [[Preprint](https://arxiv.org/pdf/2603.09716)]  
