@@ -11,7 +11,7 @@ Hi! Currently, I'm a researcher at M17 focusing on foundation models, especially
 
 News
 ======
-- **[2026.09]** Four paper ([1 first-author](https://arxiv.org/pdf/2603.13364), 1 co-first) are accepted to **NeurIPS 2026**.🎉🎉🎉
+- **[2026.09]** Four paper (1 first-author, 1 co-first) are accepted to **NeurIPS 2026**.🎉🎉🎉
 - **[2026.06]** I serve as the **Area Chair** for the [2nd MUGG workshop](https://mllm-mucg.github.io/ECCV2026/) at **ECCV 2026**.
 - **[2026.06]** [EvoTok](https://arxiv.org/pdf/2603.12108)（Co-First & Project Lead）and [GRADE](https://arxiv.org/pdf/2603.12264) are accepted to **ECCV 2026**.🎉🎉🎉
 - **[2026.03]** We opensource the FineRMoE: [preprint](https://arxiv.org/pdf/2603.13364), [model](https://huggingface.co/collections/NingLiao/finermoe) and [code](https://github.com/liaoning97/FineRMoE) based on Megatron-LM framework.
