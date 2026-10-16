@@ -27,10 +27,10 @@ News
 Selected Publications 
 ======
 (*Equal Contribution, †Corresponding Author/Project Lead)
+- **FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach** [[NeurIPS 2026](https://arxiv.org/pdf/2603.13364)][[Code](https://github.com/liaoning97/FineRMoE)][[Model](https://huggingface.co/collections/NingLiao/finermoe)]  
+  _**Ning Liao**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan_
 - **ACE: Pluggable Adaptive Context Elasticizer across Agents** [[Preprint](https://arxiv.org/pdf/2606.31564)]  
   _**Ning Liao**, Zihao Long, Xiaoxing Wang, et al._
-- **FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach** [[Preprint](https://arxiv.org/pdf/2603.13364)][[Code](https://github.com/liaoning97/FineRMoE)][[Model](https://huggingface.co/collections/NingLiao/finermoe)]  
-  _**Ning Liao**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan_
 - **Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling** [[Tech Report at WAIC 2025](https://arxiv.org/pdf/2507.18671)]  
   _**Ning Liao**, Xiaoxing Wang, Zehao Lin, et al._
 - **CoHOZ: Contrastive Multimodal Prompt Tuning for Hierarchical Open-set Zero-shot Recognition** [[ACM MM 2022 Oral](https://dl.acm.org/doi/abs/10.1145/3503161.3548021)]  
@@ -44,7 +44,7 @@ Selected Publications
 - **EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation** [[ECCV 2026](https://arxiv.org/pdf/2603.12108)]  
   _Yan Li*, **Ning Liao***, Xiangyu Zhao, et al._
 - **AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents** [[Preprint](https://arxiv.org/pdf/2603.09716)]  
-  _Xiaoxing Wang*, **Ning Liao***(dominating Elastic Memory Orchestration), Shikun Wei, et al._
+  _Xiaoxing Wang*, **Ning Liao***, Shikun Wei, et al._
 - **Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning** [[ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-73016-0_25)]  
   _Yan Li, Weiwei Guo, Xue Yang, **Ning Liao**, Dunyun He, Jiaqi Zhou, Wenxian Yu_
 - **Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation** [[IJCV](https://arxiv.org/pdf/2411.02057)]
